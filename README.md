@@ -9,3 +9,4 @@ mehrabiabol1383@gmail.com
 |---|---|---|---|
 | دیتاست | 190993 | [سوال](https://quera.org/problemset/190993) | [جواب](https://github.com/ABMNTM/QueraPython/blob/main/dataset.py)|
 | tax | 6313 | [سوال](https://quera.org/problemset/6313) | [جواب](https://github.com/ABMNTM/QueraPython/blob/main/tax.py)|
+| شطرنج میوه ای | 60134 | [سوال](https://quera.org/problemset/60134/) | [جواب](https://github.com/ABMNTM/QueraPython/blob/main/fruitChess.py)|
